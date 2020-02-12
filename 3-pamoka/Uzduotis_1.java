@@ -1,4 +1,4 @@
-public class Uuduotis_1
+public class Uzduotis_1
 {
    public static void main(String[] args)
    {
