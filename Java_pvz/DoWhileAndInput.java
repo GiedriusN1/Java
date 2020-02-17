@@ -7,9 +7,9 @@ public class DoWhileAndInput {
 	   int sum;
 	   
 	   do {
-		  System.out.println("Enter A: "]); 
+		  System.out.println("Enter A: "); 
 		  a = Integer.valueOf(System.console().readLine());
-		  System.out.println("Enter B: "]); 
+		  System.out.println("Enter B: "); 
 		  b = Integer.valueOf(System.console().readLine());
 		  sum = a + b;
 	
