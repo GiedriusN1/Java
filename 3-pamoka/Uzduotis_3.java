@@ -5,7 +5,7 @@ public class Uzduotis_3
 	   float a;
 	   float b;
 	   // Character op = 'y'; /// nelabai gaunasi su Character tipu
-	   double rez;
+	   // double rez;
 	   
 	   do {
 		  System.out.println("\n Iveskite A: "); 

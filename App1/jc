@@ -1,0 +1,30 @@
+clean() {
+	echo "Cleanning..."
+	find . -name "*.class" -delete
+	echo "Done."
+}
+
+compile() {
+	echo "Compiling... $1"
+#	find . -name "*.java" > sources.list
+	javac $1.java
+	echo "Done."
+}
+
+case "$1" in 
+	clean)
+		clean
+		;;
+	compile)
+		compile
+		;;
+	run)
+		compile $2
+		echo "Running $2"
+		java "$2"
+		echo "$2 terminated with code "$?
+		;;
+	*)
+		echo "Usage: $0 {run|compile|clean}"
+		;;
+esac	

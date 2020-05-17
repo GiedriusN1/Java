@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f0d2b37-9fe0-4df4-aa9f-696314bdf212" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../3-pamoka/Uzduotis_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-pamoka/Uzduotis_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3-pamoka/Uzduotis_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/ArrayType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/CelsiusException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/CelsiusToFahrenheit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/Conditional8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_pvz/Conditional8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/HelloName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/IfThenElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/IfThenElse1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/IntegerToFloat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/Uuduotis_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/ciklasFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/find.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_pvz/find.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/pamoka2.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/septintasn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/septintasn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_pvz/septintasn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_pvz/uzduotis_Args.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1YiRv6ArX9VbDIBrYFT1CTuFh3Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f0d2b37-9fe0-4df4-aa9f-696314bdf212" name="Default Changelist" comment="" />
+      <created>1583423655817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583423655817</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="81" key="FileChooserDialogImpl" timestamp="1583423802282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583423802282" />
+    <state x="348" y="63" key="NewModule_or_Project.wizard" timestamp="1583423817553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="63" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1583423817553" />
+  </component>
+</project>
